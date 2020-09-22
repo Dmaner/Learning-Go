@@ -1,0 +1,8 @@
+test for dup 2
+test for dup 2
+test for dup 2
+test for dup 2
+test nothing 
+test for dup 2
+test for dup 2
+test nothing 
