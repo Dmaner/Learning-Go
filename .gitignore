@@ -1,3 +1,4 @@
 *.pdf
 *.exe
 .idea
+base/code/*
